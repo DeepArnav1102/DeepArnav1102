@@ -90,7 +90,7 @@ Databases           █████████████████░░░
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnav%20Deep-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-deep-6b5950381/)
-[![GitHub](https://img.shields.io/badge/GitHub-arnav--deep-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnav-deep)
+[![GitHub](https://img.shields.io/badge/GitHub-arnav--deep-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepArnav1102)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deeparnav777@gmail.com)
 
 </div>
