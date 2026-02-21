@@ -73,21 +73,6 @@ me.say_hi()
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnav-deep&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-deep&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnav-deep&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## 🗺️ Skills Radar
 
 ```
@@ -106,7 +91,7 @@ Databases           █████████████████░░░
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnav%20Deep-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-deep-6b5950381/)
 [![GitHub](https://img.shields.io/badge/GitHub-arnav--deep-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnav-deep)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deeparnav777@gmail.com)
 
 </div>
 
