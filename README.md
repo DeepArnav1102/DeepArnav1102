@@ -38,7 +38,7 @@ me.say_hi()
 - 🎓 **CS Student** at Dr. B.C. Roy Engineering College, Durgapur
 - 🌱 Currently deepening skills in **AI/ML**, **Full Stack Web Dev**, and **Data Analysis**
 - 💼 Open to **Internship / Engineer Intern / Student Intern** roles
-- 🤝 82+ professional connections on LinkedIn and growing
+
 
 ---
 
@@ -73,18 +73,6 @@ me.say_hi()
 
 ---
 
-## 🗺️ Skills Radar
-
-```
-Full Stack Web Dev  ████████████████░░░░  80%
-Python / Data       ███████████████░░░░░  75%
-C / C++             ██████████████░░░░░░  70%
-AI / Chatbots       ████████████░░░░░░░░  60%
-Databases           █████████████████░░░  85%
-```
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -108,7 +96,6 @@ Databases           █████████████████░░░
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=arnav-deep&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
