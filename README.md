@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arnav%20Deep&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20SIH%202025%20Finalist&descAlignY=55&descSize=16"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Arnav+Deep+👋;SIH+2025+Finalist+🏆;Full+Stack+%2B+AI%2FML+Developer+💻;Building+cool+stuff+from+Durgapur+🇮🇳)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Arnav+Deep+👋;SIH+2025+Finalist+🏆;Full+Stack+%2B+AI%2FML+Developer+💻)](https://git.io/typing-svg)
 
 </div>
 
@@ -90,7 +90,6 @@ me.say_hi()
 - 🧩 I love breaking down complex problems into elegant code
 - 🤖 Fascinated by conversational AI — built chatbots with **Rasa**
 - 📚 Always learning — currently exploring **LLMs** and **backend architecture**
-- ☕ Best ideas come with chai, not coffee
 
 ---
 
