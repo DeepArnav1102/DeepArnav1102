@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Arnav Deep, A computer Science student from Dr. BC. Roy Engineering College, Durgapur.<br>A real Tech enthusiast and eager to learn and expand my horizon by exploring new skills and stack.<br>Actively working on Web Apps and ML projects, also learning low level System design and architecture for an ambitious OS project.<br>A regular participants of Hackathons, also made it to finals of Smart India Hackathon 2025.<br>
+I am Arnav Deep, A computer Science student from Dr. BC. Roy Engineering College, Durgapur.<br>A real Tech enthusiast and eager to learn and expand my horizon by exploring new skills and stack.<br>Actively working on Web Apps and ML projects, also learning low level System design and architecture for an ambitious OS project.<br>A regular participant of Hackathons, also made it to finals of Smart India Hackathon 2025.<br>
 
 
 ## 🌐 Socials:
@@ -11,8 +11,3 @@ I am Arnav Deep, A computer Science student from Dr. BC. Roy Engineering College
 ![](https://github-readme-stats.shion.dev/api?username=DeepArnav1102&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=DeepArnav1102&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DeepArnav1102&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DeepArnav1102&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
