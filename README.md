@@ -164,20 +164,6 @@ Built as reusable parsing infrastructure for terminal emulators, terminal applic
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepArnav1102&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepArnav1102&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DeepArnav1102&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Engineering Philosophy
 
 I am particularly interested in the intersection of:
@@ -211,13 +197,3 @@ I'm always interested in discussing systems programming, Rust, backend engineeri
 </div>
 
 ---
-
-<div align="center">
-
-### ⚡ Building. Breaking. Understanding. Improving.
-
-*The best way to understand a system is to build one.*
-
-**Thanks for visiting! 🚀**
-
-</div>
